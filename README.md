@@ -1,3 +1,5 @@
+![FR1M3R's Github Banner](https://media.licdn.com/dms/image/C4D16AQEC_1u7JqAsUg/profile-displaybackgroundimage-shrink_350_1400/0/1627754195246?e=1697068800&v=beta&t=Ud-ia99t80MP859mzy9lT3XfAKAzT1Dc6T1ej2zsOvo)
+
 ### Hi there 👋
 
 <!--
