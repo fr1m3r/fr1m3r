@@ -1,4 +1,4 @@
-![FR1M3R's Github Banner](https://w0.peakpx.com/wallpaper/963/804/HD-wallpaper-programmer-eat-sleep-code-repeat.jpg](https://w0.peakpx.com/wallpaper/963/804/HD-wallpaper-programmer-eat-sleep-code-repeat.jpg)
+![FR1M3R's Github Banner](https://w0.peakpx.com/wallpaper/963/804/HD-wallpaper-programmer-eat-sleep-code-repeat.jpg)
 
 ### Hi there 👋
 
