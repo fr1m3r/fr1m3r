@@ -1,5 +1,7 @@
 <!--![FR1M3R's Github Banner](url)-->
 
+<h1 align="center">Hi 👋 I'm Troels Risum Vigsøe Frimer</h1>
+
 ### Hi there 👋
 
 <!--
