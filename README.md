@@ -31,8 +31,9 @@
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 <hr/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=fr1m3r&show_icons=true&locale=en&theme=default" alt="FR1M3R" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fr1m3r&show_icons=true&locale=en&layout=compact&theme=default" alt="FR1M3R" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=fr1m3r&show_icons=true&locale=en&theme=default" alt="FR1M3R" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fr1m3r&show_icons=true&locale=en&layout=compact&theme=default" alt="FR1M3R" /></p>
 <!--
 **fr1m3r/fr1m3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
