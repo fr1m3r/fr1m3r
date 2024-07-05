@@ -1,7 +1,7 @@
 <!--![FR1M3R's Github Banner](url)-->
 
 <h1 align="center">Hi 👋 I'm Troels Risum Vigsøe Frimer</h1>
-<h3 align="center">I'm a full stack developer with a passion for building dynamic web applications, where Clean Code, SOLID principles and Secure Code is the main ingredients. I have expertise in frontend technologies like HTML, CSS, Javascript, Typescript etc, and backend techologies like Java and .NET. I'm currently working with following frameworks Angular (Frontend) and SpringBoot (Backend).</h3>
+<h3 align="center">I'm a Senior Software Developer with a passion for building dynamic web applications, where Clean Code, SOLID principles and Secure Code is the main ingredients. I have expertise in frontend technologies like HTML, CSS, Javascript, Typescript etc, and backend techologies like Java and .NET. I'm currently working with following frameworks Angular (Frontend) and SpringBoot (Backend).</h3>
 
 <h2 align="left">Connect with me</h2>
 <p align="left">
